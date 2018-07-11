@@ -3,7 +3,7 @@
 Bank queue simulation with randomized customer arrival probability and a clerk policy. Implemented for the undergrad class of Data Structures.
 
 # Run example
-
+```
 Input:
 Arrival probability for a customer [0,1]
 Max service time (unsigned int >= 1min)
@@ -29,3 +29,4 @@ The bank worked 1 min overtime
 	 Was occupied for 27 min
 	 Was inactive for 3 min
 	 Worked 0 min overtime
+```
