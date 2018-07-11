@@ -27,8 +27,8 @@ int main(void)
 
 	printf("Input:\n"
 					"Arrival probability for a customer [0,1]\n"
-					"Max service time (>=1min)\n"
-					"Operating time of the bank (=> 0min)\n");
+					"Max service time (unsigned int >= 1min)\n"
+					"Operating time of the bank (unsgined int >= 0min)\n");
 	scanf("%f %u %u",&pithanotita_afiksis,&max_xronos_eksipiretisis,&xronos_leitourgias);
 	getchar();
 	//printf("\nH pi8anothta afikshs pelath se ena lepto einai: %4.2f.\n",pithanotita_afiksis);
