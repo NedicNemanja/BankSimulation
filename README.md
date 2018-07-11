@@ -31,5 +31,5 @@ The bank worked 1 min overtime
 	 Worked 0 min overtime
 ```
 If you wish to change the num of clerks change the
-```include/Clerk.h:10 #define TIMES 2``` 
+```include/Clerk.h:10 #define TAMIES 2``` 
 to whatever you want.
